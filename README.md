@@ -1,6 +1,6 @@
-### Hi There 🙏  
-### I Am Saurav Kumar Yadav  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-<hr><br>
+<h1 align="center">Hi There 🙏 <br>
+I Am Saurav Kumar Yadav  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" ><br>
   <h2 >👨🏻‍💻  About Me</h2>
   
@@ -16,11 +16,13 @@
  
 
 ## &#x1f4c8; GitHub Stats
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-yadav&layout=compact&theme=tokyonight">
+ <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Saurav-K-yadav&&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-yadav&layout=compact&theme=tokyonight">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-K-yadav&theme=tokyonight" />
-  <br>
+<br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-K-yadav&theme=tokyonight" /></p>
+ <br>
 
 ## :hammer_and_wrench: Languages And Tools
 <p align="center">
