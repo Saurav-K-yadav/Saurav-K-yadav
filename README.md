@@ -20,9 +20,9 @@ I Am Saurav Kumar Yadav  <img src="https://raw.githubusercontent.com/MartinHeinz
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-yadav&layout=compact&theme=tokyonight">
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Saurav-K-yadav&&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2">
-<br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-K-yadav&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Saurav-K-yadav&&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2"> -->
+<!-- <br> -->
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-K-yadav&theme=tokyonight" /> -->
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurav-K-yadav&theme=nord_dark" ></p>
  <br>
 
