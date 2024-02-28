@@ -13,12 +13,13 @@ I Am Saurav Kumar Yadav  <img src="https://raw.githubusercontent.com/MartinHeinz
 - 📫 Reach me: sauravkumaryadav100@gmail.com
 <!-- 🥅 2021 Goal:Start contributing to Open Source projects-->
 - :adult: Pronouns: He/His 
-<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>
+&nbsp;Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
  -->
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-yadav&layout=compact&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-yadav&count_private=false&layout=compact&theme=tokyonight">
  <br>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Saurav-K-yadav&&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2"> -->
 <!-- <br> -->
