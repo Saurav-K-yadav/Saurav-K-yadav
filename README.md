@@ -6,7 +6,7 @@ I Am Saurav Kumar Yadav  <img src="https://raw.githubusercontent.com/MartinHeinz
   
 <!-- 🔭 I’m currently working on Javascript mini-projects-->
 <!-- 🌱 I’m currently learning Javascript and linux.-->
-- 🔐 Interested in web Development.
+- 🔐 Interested Data Science.
 <!-- 👯 I’m looking to collaborate on web development-->
 <!-- 🤔 I’m looking for help with Javascript-->
 - 💬 Ask me about anything/anytime
