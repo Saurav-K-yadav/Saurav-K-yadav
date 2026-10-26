@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Building intelligent systems, research-driven AI solutions, and data-first products that turn ideas into real impact.
+  Building intelligent AI systems, and data-first products that turn ideas into real impact.
 </p>
 
 <p align="center">
@@ -33,14 +33,12 @@
 <h2 align="center">About Me</h2>
 
 <p>
-  I’m a <strong>research-focused AI engineer and data scientist</strong> with a passion for building systems that combine <strong>machine learning</strong>, <strong>intelligent automation</strong>, and <strong>practical problem solving</strong>.
+  I’m a <strong> AI engineer and data scientist</strong> with a passion for building systems that combine <strong>machine learning</strong>, <strong>intelligent automation</strong>, and <strong>practical problem solving</strong>.
 </p>
 
 <ul>
   <li>🧠 Focused on <strong>AI/ML</strong>, <strong>RAG</strong>, and intelligent systems</li>
   <li>📊 Driven by <strong>data science</strong>, analytics, and model-based decision making</li>
-  <li>🔐 Exploring <strong>system monitoring</strong>, network intelligence, and security-aware AI</li>
-  <li>🤝 Open to research collaborations, internships, and impactful opportunities</li>
 </ul>
 
 <hr>
